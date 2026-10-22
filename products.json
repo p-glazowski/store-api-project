@@ -1,0 +1,131 @@
+[
+  {
+    "title": "accent chair",
+    "price": 25,
+    "company": "marcos",
+    "rating": 4
+  },
+  {
+    "title": "albany sectional",
+    "price": 109,
+    "company": "liddy",
+    "rating": 5
+  },
+  {
+    "title": "albany table",
+    "price": 309,
+    "company": "liddy",
+    "rating": 4.9
+  },
+  {
+    "title": "armchair",
+    "price": 125,
+    "company": "marcos",
+    "rating": 4.8
+  },
+  {
+    "title": "bar stool",
+    "price": 40,
+    "company": "liddy",
+    "rating": 4.6
+  },
+  {
+    "title": "dining table",
+    "price": 42,
+    "company": "ikea",
+    "rating": 4.55
+  },
+  {
+    "title": "emperor bed",
+    "price": 23,
+    "company": "ikea"
+  },
+  {
+    "title": "entertainment center",
+    "price": 59,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "title": "high-back bench",
+    "price": 39,
+    "featured": true,
+    "company": "ikea"
+  },
+
+  {
+    "title": "leather sofa",
+    "price": 99,
+    "company": "caressa"
+  },
+  {
+    "title": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "title": "modern poster",
+    "price": 30,
+    "company": "liddy"
+  },
+  {
+    "title": "shelf",
+    "price": 30,
+    "company": "ikea"
+  },
+  {
+    "title": "simple chair",
+    "price": 109,
+    "company": "liddy"
+  },
+  {
+    "title": "sofa set",
+    "price": 129,
+    "company": "marcos"
+  },
+  {
+    "title": "suede armchair",
+    "price": 15,
+    "company": "caressa"
+  },
+  {
+    "title": "utopia sofa",
+    "price": 79,
+    "featured": true,
+    "company": "liddy"
+  },
+  {
+    "title": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "marcos"
+  },
+  {
+    "title": "wooden bed",
+    "price": 25,
+    "company": "ikea"
+  },
+  {
+    "title": "wooden desk",
+    "price": 15,
+    "company": "ikea"
+  },
+  {
+    "title": "wooden desk",
+    "price": 40,
+    "company": "ikea"
+  },
+  {
+    "title": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "title": "a first wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa"
+  }
+]
